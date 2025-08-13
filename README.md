@@ -56,9 +56,9 @@ If you want to clone the project using the terminal:
 
 1. Open your terminal or command prompt.
 2. Run the following command to clone the repository:
-git clone https://github.com/Bhagukhairnar/Quiz-App.git
+     git clone https://github.com/Bhagukhairnar/Quiz-App.git
 3. Navigate to the project folder:
-cd Quiz-App-With-HTML-CSS-and-JavaScript
+     cd Quiz-App
 4. Open the index.html file in any browser to view and use the app
 
    
