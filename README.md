@@ -1,5 +1,9 @@
 # Quiz-App
+
+
+
 A simple and interactive quiz application built using HTML, CSS, and JavaScript. This app allows users to answer multiple-choice questions and shows their results.
+
 
 Features
 
