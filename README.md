@@ -21,14 +21,17 @@ Technologies Used
 Installation
 
 Clone the repository to your local machine:
+
    git clone https://github.com/Bhagukhairnar/Quiz-App.git
  
      
 Navigate to the project directory:
+
   cd Quiz-App
 
 
 Open the index.html file in your browser:
+
    open index.html
 
 Or, right-click and select Open with to open it in your browser.
@@ -52,14 +55,20 @@ How to Contribute
 5. Open a pull request.
    
 How to Import the Project via Terminal
+
 If you want to clone the project using the terminal:
 
 1. Open your terminal or command prompt.
+   
 2. Run the following command to clone the repository:
+   
      git clone https://github.com/Bhagukhairnar/Quiz-App.git
-3. Navigate to the project folder:
+   
+4. Navigate to the project folder:
+   
      cd Quiz-App
-4. Open the index.html file in any browser to view and use the app
+   
+6. Open the index.html file in any browser to view and use the app
 
    
 Credits
